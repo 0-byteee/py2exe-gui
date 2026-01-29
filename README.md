@@ -18,7 +18,7 @@ Python to EXE Converter for Windows (Standalone Application)
 
 Download the latest version:
 
-**pytoexe_v2.0.zip**
+👉 **[Download pytoexe_v2.0.zip](pytoexe_v2.0.zip)**
 
 No installation required. Extract and run.
 
